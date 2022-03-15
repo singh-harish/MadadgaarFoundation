@@ -1,3 +1,11 @@
+
+$(document).ready(function(){
+  $('.carousel').carousel({
+    interval: 2000
+  })
+});
+
+
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
