@@ -2,45 +2,24 @@ body {
     font-family: "Montserrat";
     text-align: center;
   }
-<<<<<<< HEAD
 
   .container-fluid {
     padding: 7% 15%;
   }
 
-=======
-  
-  .container-fluid {
-    padding: 7% 15%;
-  }
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .jumbotron {
     background-color: #cfccc6;
     padding: 2rem;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .icon {
     color: #ef8172;
     margin-bottom: 1rem;
   }
-<<<<<<< HEAD
 
   .icon:hover {
     color: #ff4c68;
   }
 
-=======
-  
-  .icon:hover {
-    color: #ff4c68;
-  }
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .eventh2 {
     color: white;
     font-size: 2.5rem;
@@ -50,30 +29,17 @@ body {
     margin-bottom: 1rem;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
-<<<<<<< HEAD
 
   em {
     color: white;
   }
 
-=======
-  
-  em {
-    color: white;
-  }
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   /* Main Nav Bar */
   #mainNav {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     background-color: #212529;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   #mainNav .navbar-toggler {
     padding: 0.75rem;
     font-size: 0.75rem;
@@ -81,7 +47,6 @@ body {
     text-transform: uppercase;
     font-weight: 700;
   }
-<<<<<<< HEAD
 
   #mainNav .navbar-brand img {
     height: 3rem;
@@ -91,36 +56,17 @@ body {
     font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
 
-=======
-  
-  #mainNav .navbar-brand img {
-    height: 3rem;
-  }
-  
-  #mainNav .navbar-brand {
-    font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  }
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   #mainNav .navbar-nav .nav-item .nav-link {
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 0.95rem;
     color: #fff;
     letter-spacing: 0.0625em;
   }
-<<<<<<< HEAD
 
   #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
     color: #ffc800;
   }
 
-=======
-  
-  #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: #ffc800;
-  }
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   /* -------------------------------------------------------- */
   /* Mast Head */
   header.masthead {
@@ -135,11 +81,6 @@ body {
     background-position: center;
     background-size: cover;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   header.masthead .masthead-subheading {
     font-size: 2rem;
     font-style: italic;
@@ -148,11 +89,6 @@ body {
     margin-bottom: 25px;
     font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   header.masthead .masthead-heading {
     font-size: 4rem;
     font-weight: 700;
@@ -161,13 +97,8 @@ body {
     margin-bottom: 2rem;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
-<<<<<<< HEAD
 
 
-=======
-  
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   /**********************************************
    Who We Are ? Motto . Donate : Caraousal
   ***********************************************/
@@ -177,37 +108,20 @@ body {
     background-position: center;
     background-attachment: fixed;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .testimonial-text {
     color: white;
     font-size: 1.5rem;
     line-height: 1.5;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .testimonial-image {
     width: 10%;
     border-radius: 100%;
     margin: 20px;
   }
-<<<<<<< HEAD
 
 
 
 
-=======
-  
-  
-  
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   /**********************************************
    Team: Founders and CoFounders
   ***********************************************/
@@ -215,22 +129,12 @@ body {
     padding: 5rem 0 2rem;
     height: 100%;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .page-section h2.section-heading, .page-section .section-heading.h2 {
     font-size: 2.5rem;
     margin-top: 0;
     margin-bottom: 1rem;
     font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .page-section h3.section-subheading, .page-section .section-subheading.h3 {
     font-size: 1rem;
     font-weight: 400;
@@ -238,50 +142,25 @@ body {
     font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     margin-bottom: 1rem;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .team-member {
     margin-bottom: 5rem;
     text-align: center;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .team-member img {
     width: 15rem;
     height: 15rem;
     border: 0.5rem solid rgba(0, 0, 0, 0.1);
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .team-member h4, .team-member .h4 {
     margin-top: 1.5rem;
     margin-bottom: 0;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .jumbotron {
     border-radius: 30%;
     margin: 3rem;
   }
-<<<<<<< HEAD
 
 
-=======
-  
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   /**********************************************
    Clients Logo Style
   ***********************************************/
@@ -291,38 +170,22 @@ body {
     background-repeat: no-repeat;
     background-position: center;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .clients-logo h1{
     margin: 1rem 0 4rem 0;;
     font-weight: 600;
     letter-spacing: 2px;
     color: white;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .clients-logo {
     padding: 50px 0 100px 0;
     background-attachment: fixed;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .clients-logo .block {
     padding: 30px 0;
     background: rgba(0, 0, 0, 0.7);
     transition: 0.5s;
     height: 200px;
   }
-<<<<<<< HEAD
 
   .clients-logo .block img {
     height: auto;
@@ -336,21 +199,6 @@ body {
     -webkit-filter: invert(1);
   }
 
-=======
-  
-  .clients-logo .block img {
-    height: auto;
-  }
-  
-  .clients-logo .block:hover {
-    background: #fff;
-  }
-  
-  .clients-logo .block:hover img {
-    -webkit-filter: invert(1);
-  }
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   /**********************************************
    Contact page
   ***********************************************/
@@ -360,7 +208,6 @@ body {
     background-repeat: no-repeat;
     background-position: center;
   }
-<<<<<<< HEAD
 
   section#contact .section-heading {
     color: #fff;
@@ -370,22 +217,10 @@ body {
     margin-bottom: 1.5rem;
   }
 
-=======
-  
-  section#contact .section-heading {
-    color: #fff;
-  }
-  
-  section#contact form#contactForm .form-group {
-    margin-bottom: 1.5rem;
-  }
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   section#contact form#contactForm .form-group input,
   section#contact form#contactForm .form-group textarea {
     padding: 1.25rem;
   }
-<<<<<<< HEAD
 
   section#contact form#contactForm .form-group input.form-control {
     height: auto;
@@ -395,132 +230,67 @@ body {
     height: 100%;
   }
 
-=======
-  
-  section#contact form#contactForm .form-group input.form-control {
-    height: auto;
-  }
-  
-  section#contact form#contactForm .form-group-textarea {
-    height: 100%;
-  }
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   section#contact form#contactForm .form-group-textarea textarea {
     height: 100%;
     min-height: 10rem;
   }
-<<<<<<< HEAD
 
   section#contact form#contactForm p.help-block {
     margin: 0;
   }
 
-=======
-  
-  section#contact form#contactForm p.help-block {
-    margin: 0;
-  }
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   section#contact form#contactForm .form-control:focus {
     border-color: #ffc800;
     box-shadow: none;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   section#contact form#contactForm ::-webkit-input-placeholder {
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-weight: 700;
     color: #ced4da;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   section#contact form#contactForm :-moz-placeholder {
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-weight: 700;
     color: #ced4da;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   section#contact form#contactForm ::-moz-placeholder {
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-weight: 700;
     color: #ced4da;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   section#contact form#contactForm :-ms-input-placeholder {
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-weight: 700;
     color: #ced4da;
   }
-<<<<<<< HEAD
 
 
 
 
-=======
-  
-  
-  
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   /**********************************************
    Footer Page
   ***********************************************/
   .footer {
     background-color: teal;
   }
-<<<<<<< HEAD
 
   .social-icon {
     margin: 5px 5px;
     font-size: 1.5rem;
   }
 
-=======
-  
-  .social-icon {
-    margin: 20px 10px;
-  }
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   @media (max-width : 1028px) {
     #title {
       text-align: center;
     }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
     .title-image {
       position: static;
       transform: rotate(0);
     }
   }
-<<<<<<< HEAD
 
 
 
-=======
-  
-  
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   /**********************************************
    Portfolio Modal
   ***********************************************/
@@ -528,36 +298,20 @@ body {
     margin: 1rem;
     max-width: 100vw;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .portfolio-modal .modal-content {
     padding-top: 6rem;
     padding-bottom: 6rem;
     text-align: center;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .portfolio-modal .modal-content h2, .portfolio-modal .modal-content .h2 {
     font-size: 3rem;
     line-height: 3rem;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .portfolio-modal .modal-content p.item-intro {
     font-style: italic;
     margin-bottom: 2rem;
     font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
-<<<<<<< HEAD
 
   .portfolio-modal .modal-content p {
     margin-bottom: 2rem;
@@ -571,21 +325,6 @@ body {
     margin-bottom: 2rem;
   }
 
-=======
-  
-  .portfolio-modal .modal-content p {
-    margin-bottom: 2rem;
-  }
-  
-  .portfolio-modal .modal-content ul.list-inline {
-    margin-bottom: 2rem;
-  }
-  
-  .portfolio-modal .modal-content img {
-    margin-bottom: 2rem;
-  }
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .portfolio-modal .close-modal {
     position: absolute;
     top: 1.5rem;
@@ -595,7 +334,6 @@ body {
     cursor: pointer;
     background-color: transparent;
   }
-<<<<<<< HEAD
 
   .portfolio-modal .close-modal:hover {
     opacity: 0.3;
@@ -604,16 +342,6 @@ body {
   /* ------------------------------------------------------ */
 
 
-=======
-  
-  .portfolio-modal .close-modal:hover {
-    opacity: 0.3;
-  }
-  
-  /* ------------------------------------------------------ */
-  
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   .timeline {
     position: relative;
     padding: 0;
@@ -716,27 +444,15 @@ body {
     text-align: center;
     text-decoration: none;
   }
-<<<<<<< HEAD
 
 
   /* Set a specific color for each brand */
 
-=======
-  
-  
-  /* Set a specific color for each brand */
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   /* Facebook */
   .fa-facebook {
     background: #3B5998;
     color: white;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   /* Twitter */
   .fa-twitter {
     background: #55ACEE;
@@ -752,11 +468,6 @@ body {
     background: #007bb5;
     color: white;
   }
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   @media (min-width: 768px) {
     .timeline:before {
       left: 50%;
@@ -828,21 +539,12 @@ body {
       padding: 0 100px 20px 20px;
     }
   }
-<<<<<<< HEAD
 
 
   /**********************************************
    Article Page
   ***********************************************/
 
-=======
-  
-  
-  /**********************************************
-   Article Page
-  ***********************************************/
-  
->>>>>>> 0666242dddb1d1111d9f368e1ab6a933aee91d2b
   section.article h5{
     text-align: left;
     line-height: 1.5;
